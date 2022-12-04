@@ -1,0 +1,12 @@
+https://api.telegram.org/bot5443605402:AAHm5uWp7Jq2voir7wuv-RyTsBxfB0b7CW8/getUpdates
+
+
+5443605402:AAHm5uWp7Jq2voir7wuv-RyTsBxfB0b7CW8
+
+#gruppo UnclePuff Gusti
+chat_id= -1001624799334
+message_id= 203
+
+
+{"ok":true,"result":[{"update_id":11970021,
+"message":{"message_id":22,"from":{"id":5325401676,"is_bot":false,"first_name":"scrim","username":"fuckkgod","language_code":"en"},"chat":{"id":-1001624799334,"title":"UnclePuff Gusti","type":"supergroup"},"date":1667905045,"text":"\ud83d\udcb8 Prezzi Puffs"}}]}
