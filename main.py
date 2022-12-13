@@ -1,4 +1,4 @@
-/*from emoji import emojize*/
+#from emoji import emojize
 from telegram import *
 from telegram.ext import *
 
