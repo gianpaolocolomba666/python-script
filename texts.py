@@ -1,6 +1,6 @@
 from telegram.ext import *
 from telegram import *
-from emoji import emojize
+#from emoji import emojize
 
 #comandi con bottoni tastiera
 infoSpedizioni = "\U0001f4e6 Ships"
